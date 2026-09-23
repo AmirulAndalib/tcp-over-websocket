@@ -6,9 +6,10 @@
 也就是UDP over WebSocket (UDP to WebSocket, udp2ws) 并没有独立成新程序，写在一起了  
 启动时会同时转发指定的端口的TCP和UDP流量  
 
-不欢迎这种生物使用，开源项目不代表无条件为你服务，还要给你负责售后  
+开源项目不代表无条件为你服务，还要给你负责售后  
 遇到问题先找自己问题，我好声好气解释问题换来的却是我“说话难听”
-<img width="800" height="656" alt="image" src="https://github.com/user-attachments/assets/4157c914-7ec2-4459-8404-6caf11f2ad89" />
+<img width="800" height="656" alt="image" src="https://github.com/user-attachments/assets/4157c914-7ec2-4459-8404-6caf11f2ad89" />  
+遇到解决不了的问题或者bug可以提出来，我会协助你解决，但不要阴阳怪气，不要阴阳怪气，不要阴阳怪气
 
 
 ## 因为经常修改优化，所以请Star，不要Fork  
